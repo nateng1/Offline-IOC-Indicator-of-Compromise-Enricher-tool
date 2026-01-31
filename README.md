@@ -14,7 +14,7 @@ A command-line tool for enriching Indicators of Compromise (IOCs) with threat in
 
 ```bash
 # Clone the repository
-git clone https://github.com/nateng1/ioc-enricher.git
+git clone https://github.com/nateng1/Offline-IOC-Indicator-of-Compromise-Enricher-tool.git
 cd ioc-enricher
 
 # Install dependencies
